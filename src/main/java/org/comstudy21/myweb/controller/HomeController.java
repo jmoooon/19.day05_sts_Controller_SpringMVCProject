@@ -1,4 +1,4 @@
-package org.comstudy21.myweb;
+package org.comstudy21.myweb.controller;
 
 import java.text.DateFormat;
 import java.util.Date;

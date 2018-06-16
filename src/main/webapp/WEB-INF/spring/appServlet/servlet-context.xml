@@ -26,8 +26,5 @@
 
 	<context:component-scan base-package="org.comstudy21.myweb" />
 	
-	<!-- <beans:import resource="serlvet-controller.xml" /> -->
-	
-	
 	
 </beans:beans>
